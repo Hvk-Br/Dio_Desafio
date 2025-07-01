@@ -1,0 +1,32 @@
+Este projeto é uma planilha interativa desenvolvida em Excel com o objetivo de ajudar investidores a simular diferentes cenários de investimento em Fundos Imobiliários (FIIs). A ferramenta permite visualizar de forma clara e prática o crescimento do patrimônio ao longo do tempo, os dividendos recebidos mensalmente e o impacto do reinvestimento.
+
+Funcionalidades
+Simulação personalizada com base em:
+
+Valor inicial investido
+
+Aportes mensais
+
+Taxa de dividend yield (% ao mês)
+
+Duração do investimento (em meses)
+
+Opção de reinvestimento de dividendos
+
+Tabela de Projeção Mensal
+
+Patrimônio acumulado
+
+Total investido
+
+Dividendos mensais
+
+Gráfico de evolução do patrimônio
+
+Visualização clara do crescimento ao longo do tempo
+
+Sugestões de alocação por perfil
+
+Conservador, Moderado e Arrojado
+
+Percentuais sugeridos entre os tipos de FII: Papel, Tijolo, Híbrido, FOFs, Desenvolvimento e Hotelaria.
